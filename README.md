@@ -3,6 +3,7 @@ In this repository, we will:
 * Demonstrate our ability to collaberate
 * Showcase our skills and knowledge of GitHub tools
 * And demo how an actual project may work
+* Display our knowledge of Canvas and MS Word
 
 License Information: GNU Gneral Public License Version 3.0, a strong copyleft license that requires any modifications of this source code be published
 
