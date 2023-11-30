@@ -10,3 +10,4 @@ License Information: GNU Gneral Public License Version 3.0, a strong copyleft li
 ## Module
 * Note: add images that detail creating a pull request.
 Add graph of neural network for visualization
+* Add screenshot to word doc
