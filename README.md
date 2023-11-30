@@ -5,3 +5,7 @@ In this repository, we will:
 * And demo how an actual project may work
 
 License Information: GNU Gneral Public License Version 3.0, a strong copyleft license that requires any modifications of this source code be published
+
+## Module
+* Note: add images that detail creating a pull request.
+Add graph of neural network for visualization
